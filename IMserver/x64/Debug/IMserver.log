@@ -1,0 +1,10 @@
+﻿  Kernel.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\IMserver\IMserver\Kernel.cpp(191,78): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\IMserver\IMserver\Kernel.cpp(211,82): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\IMserver\IMserver\Kernel.cpp(214,87): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\IMserver\IMserver\Kernel.cpp(286,67): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\IMserver\IMserver\Kernel.cpp(305,65): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\IMserver\IMserver\Kernel.cpp(351,65): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\IMserver\IMserver\Kernel.cpp(391,62): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  IMserver.vcxproj -> D:\IMserver\IMserver\x64\Debug\IMserver.exe

@@ -1,0 +1,18 @@
+﻿  Kernel.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TcpClientMediator.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TcpServerMediator.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  UdpMediator.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TcpClient.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TcpServer.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Udp.cpp
+D:\IMserver\IMserver\net\def.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  IMserver.vcxproj -> D:\IMserver\IMserver\Debug\IMserver.exe
